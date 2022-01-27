@@ -17,6 +17,8 @@ pip install -r requirements.txt
 
 ## Using data.iowa.gov
 
+> You'll need to get your own socrata API key and secret
+
 see https://github.com/xmunoz/sodapy
 
 
