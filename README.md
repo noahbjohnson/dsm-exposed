@@ -1,17 +1,18 @@
-# dsm-exposed
-Open source website for exposing corruption in Des Moines, IA politics
+# DSM Exposed
+[DSM Exposed](https://dsm.exposed) is an open source website for exposing corruption in Des Moines, IA politics
 
-## Setup
+## Overview
 
+The mission of this project is to collate various public records and proprietary data sources in order to present the following on Des Moines politics:
 
-### Create and Activate Virtual Environment
+- Political contributions and conflicts arising from them
+- Personal financial interests
+- Familial connections and nepotism
+- Special interest membership, contributions, and lobbying
+- Classism and anti-democratic actions
 
-```zsh
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
+## Affiliation and Bias
 
-## Using data.iowa.gov
+This project is not endorsed by and candidate or comittee. 
 
-see https://github.com/xmunoz/sodapy
+A good faith effort by all project contributors is made to present information fairly, while not sacrificing context.
