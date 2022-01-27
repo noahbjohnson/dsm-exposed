@@ -1,2 +1,5 @@
 # Python Virtual Environment
 venv/
+
+# Local config
+config.json
