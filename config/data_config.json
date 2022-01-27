@@ -1,0 +1,13 @@
+{
+  "socrata": {
+    "source_domain": "data.iowa.gov",
+    "datasets": {
+      "campaign_contributions_dataset": {
+        "id": "smfg-ds7h"
+      },
+      "registered_political_entities_dataset": {
+        "id": "5dtu-swbk"
+      }
+    }
+  }
+}

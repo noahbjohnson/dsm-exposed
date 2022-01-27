@@ -1,10 +1,10 @@
 {
-  "api_key" : {
+  "api_key": {
     "name": "dsm-exposed-key-name",
     "id": "abc123",
     "secret": "abc123"
   },
-  "app_key" : {
+  "app_key": {
     "app_token": "abc123",
     "secret_token": "abc123"
   }

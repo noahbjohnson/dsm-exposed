@@ -18,3 +18,8 @@ pip install -r requirements.txt
 ## Using data.iowa.gov
 
 see https://github.com/xmunoz/sodapy
+
+
+### Datasets
+
+https://dev.socrata.com/foundry/data.iowa.gov/smfg-ds7h
