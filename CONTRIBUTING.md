@@ -15,11 +15,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Using data.iowa.gov
+### Using data.iowa.gov
 
 > You'll need to get your own socrata API key and secret
 
 see https://github.com/xmunoz/sodapy
+
+
+Copy the example config file `cp config/config_example.json config/config.json`
+
+
+Add secrets to `config/config.json`
 
 
 ### Datasets
