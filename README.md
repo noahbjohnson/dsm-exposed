@@ -13,6 +13,6 @@ The mission of this project is to collate various public records and proprietary
 
 ## Affiliation and Bias
 
-This project is not endorsed by and candidate or committee. 
+This project is not endorsed by any candidate or committee. 
 
 A good faith effort by all project contributors is made to present information fairly, while not sacrificing context.

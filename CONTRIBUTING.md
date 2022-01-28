@@ -1,5 +1,8 @@
 # DSM Exposed Contributing Guide
 
+As an open source project, contributions are welcome. Please review this document to get up and running locally.
+
+
 ## Requirements
 
 - python3.9+
